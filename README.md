@@ -118,15 +118,15 @@ After a successful build, an executable (e.g., main.exe) will be generated. Run 
 main.exe
 (Output screenshots can be added here to show the runtime result.)
 
-![Screenshot 2025-04-15 160844](https://github.com/user-attachments/assets/9dcbe43d-857d-4668-a0d4-253fee9159c2)
+output_images01.png
 
-![Screenshot 2025-04-15 161037](https://github.com/user-attachments/assets/8f1ee7f3-f7a8-4526-afdd-ba82848faf79)
+output_images02.png
 
-![Screenshot 2025-04-15 161146](https://github.com/user-attachments/assets/ab378fdd-87d1-424c-84bf-67de4ad868af)
+output_images03.png
 
-![Screenshot 2025-04-15 161155](https://github.com/user-attachments/assets/7b2776d9-93b8-421a-b3f5-03f9f2ada3f1)
+output_images04.png
 
-![Screenshot 2025-04-15 161249](https://github.com/user-attachments/assets/7da78427-cf4b-4dd6-a277-a534b83e11d8)
+output_images05.png
 
 
 
