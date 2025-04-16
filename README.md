@@ -108,19 +108,19 @@ cl /EHsc main.cpp database.cpp customer.cpp account.cpp loan.cpp branch.cpp empl
 
 ```
 
-Explanation:
-/EHsc: Enables standard exception handling.
-/I "path\to\includes": Specifies the include directory of the Oracle Instant Client SDK.
-/link: Begins the linker options.
-/LIBPATH:"path\to\lib": Specifies the library path for Oracle libraries.
-oraocci19.lib oci.lib: Links against the Oracle OCCI and OCI libraries.
+**Explanation:**
+/EHsc: Enables standard exception handling. <br>
+/I "path\to\includes": Specifies the include directory of the Oracle Instant Client SDK. <br>
+/link: Begins the linker options. <br>
+/LIBPATH:"path\to\lib": Specifies the library path for Oracle libraries. <br>
+oraocci19.lib oci.lib: Links against the Oracle OCCI and OCI libraries. <br>
 
-Run the Application:
-After a successful build, an executable (e.g., main.exe) will be generated. Run it:
-main.exe
-(Output screenshots can be added here to show the runtime result.)
+**Run the Application:**
+After a successful build, an executable (e.g., main.exe) will be generated. Run it: <br>
+main.exe <br>
+(Output screenshots can be added here to show the runtime result.) <br>
 
-
+<br>
 ![Terminal Output 1](output_images01.png)  
 
 ![Terminal Output 2](output_images02.png)  
@@ -131,21 +131,21 @@ main.exe
 
 ![Terminal Output 5](output_images05.png)
 
+<br> <br> 
 
 
-
-Known Limitations and Future Enhancements
-Note:
-Due to some challenges and limited experience with Oracle DB and its related files/libraries, this project is currently incomplete. Some features may not work as expected, and further enhancements are planned, including:
-Security Features: Adding encryption for sensitive customer data.
-Transaction Management: Supporting real-time transactions between accounts.
-Reporting: Generating comprehensive monthly reports for customers on account balances and loan statuses.
-
-Final Thoughts
+**Known Limitations and Future Enhancements**  <br>
+**Note:** <br>
+Due to some challenges and limited experience with Oracle DB and its related files/libraries, this project is currently incomplete. Some features may not work as expected, and further enhancements are planned, including: <br>
+Security Features: Adding encryption for sensitive customer data. <br>
+Transaction Management: Supporting real-time transactions between accounts. <br>
+Reporting: Generating comprehensive monthly reports for customers on account balances and loan statuses. <br>
+<br>
+**Final Thoughts** <br>
 This project is a work in progress intended to provide a foundation for a comprehensive banking system. Contributions, feedback, and suggestions are welcome!
-
-Feel free to modify or expand this README as your project evolves. Happy coding!
+ <br>
+Feel free to modify or expand this README as your project evolves. Happy coding!<br>
 You can adjust any sections and details as needed. This README provides an overview, instructions, and notes that cover the key points of your project.
 
-
+<br><br>
 Thank You...
