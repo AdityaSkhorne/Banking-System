@@ -118,7 +118,7 @@ After a successful build, an executable (e.g., main.exe) will be generated. Run 
 main.exe
 (Output screenshots can be added here to show the runtime result.)
 
-![Terminal Output 1](output_images01.png)
+[![Terminal Output 1](output_images01.png)](https://github.com/AdityaSkhorne/Banking-System/blob/68eafa2fe11fea8ac7e2a72c7ab5b9dc6fa80a0d/output_images01.png)
 
 ![Terminal Output 2](output_images02.png)  
 
