@@ -106,6 +106,8 @@ cl /EHsc main.cpp database.cpp customer.cpp account.cpp loan.cpp branch.cpp empl
 /I "D:\Users\Aditya\Downloads\instantclient-sdk-windows.x64-19.26.0.0.0dbru\instantclient_19_26\sdk\include" ^
 /link /LIBPATH:"D:\Users\Aditya\Downloads\instantclient-sdk-windows.x64-19.26.0.0.0dbru\instantclient_19_26\sdk\lib\msvc" oraocci19.lib oci.lib
 
+```
+
 Explanation:
 /EHsc: Enables standard exception handling.
 /I "path\to\includes": Specifies the include directory of the Oracle Instant Client SDK.
@@ -118,8 +120,9 @@ After a successful build, an executable (e.g., main.exe) will be generated. Run 
 main.exe
 (Output screenshots can be added here to show the runtime result.)
 
-[![Terminal Output 1](output_images01.png)](https://github.com/AdityaSkhorne/Banking-System/blob/68eafa2fe11fea8ac7e2a72c7ab5b9dc6fa80a0d/output_images01.png)
-output_images01.png
+
+![Terminal Output 1](output_images01.png)  
+
 ![Terminal Output 2](output_images02.png)  
 
 ![Terminal Output 3](output_images03.png)  
