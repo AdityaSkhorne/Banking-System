@@ -1,5 +1,4 @@
 # Banking System
-![Terminal Output 1](output_images01.png)
 
 ## Project Overview
 This project implements a **Banking System** using **Oracle 18c Express Edition**. It is designed to manage core banking functionalities such as customer management, account management, loan management, employee management, and branch operations. The project includes SQL scripts to create and manage the required tables and relationships, and a C++ application using Oracle OCCI (Oracle C++ Call Interface) for database connectivity.
@@ -119,15 +118,15 @@ After a successful build, an executable (e.g., main.exe) will be generated. Run 
 main.exe
 (Output screenshots can be added here to show the runtime result.)
 
-output_images01.png
+![Terminal Output 1](output_images01.png)
 
-output_images02.png
+![Terminal Output 2](output_images02.png)  
 
-output_images03.png
+![Terminal Output 3](output_images03.png)  
 
-output_images04.png
+![Terminal Output 4](output_images04.png)  
 
-output_images05.png
+![Terminal Output 5](output_images05.png)
 
 
 
@@ -146,8 +145,4 @@ Feel free to modify or expand this README as your project evolves. Happy coding!
 You can adjust any sections and details as needed. This README provides an overview, instructions, and notes that cover the key points of your project.
 
 
-
-
-
-
-
+Thank You...
