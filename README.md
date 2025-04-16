@@ -1,4 +1,5 @@
 # Banking System
+![Terminal Output 1](output_images01.png)
 
 ## Project Overview
 This project implements a **Banking System** using **Oracle 18c Express Edition**. It is designed to manage core banking functionalities such as customer management, account management, loan management, employee management, and branch operations. The project includes SQL scripts to create and manage the required tables and relationships, and a C++ application using Oracle OCCI (Oracle C++ Call Interface) for database connectivity.
