@@ -108,14 +108,14 @@ cl /EHsc main.cpp database.cpp customer.cpp account.cpp loan.cpp branch.cpp empl
 
 ```
 
-**Explanation:**
+**Explanation:** <br>
 /EHsc: Enables standard exception handling. <br>
 /I "path\to\includes": Specifies the include directory of the Oracle Instant Client SDK. <br>
 /link: Begins the linker options. <br>
 /LIBPATH:"path\to\lib": Specifies the library path for Oracle libraries. <br>
 oraocci19.lib oci.lib: Links against the Oracle OCCI and OCI libraries. <br>
 
-**Run the Application:**
+**Run the Application:** <br>
 After a successful build, an executable (e.g., main.exe) will be generated. Run it: <br>
 main.exe <br>
 (Output screenshots can be added here to show the runtime result.) <br>
